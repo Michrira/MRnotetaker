@@ -2,7 +2,7 @@
 
 ## Description
   
-  This is a helpful note taker app that allows the user to jot down notes and save them to local storage.
+  This is a helpful note taker app that allows the user to jot down notes and save them to local storage
 
 ## Table of Contents
 * [Installation](#installation)
