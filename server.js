@@ -10,7 +10,7 @@ const writeFileAsync = util.promisify(fs.writeFile)
 
 //establishing Server
 const app = express()
-const PORT = process.env.PORT || 8000
+const PORT = process.env.PORT || 3001;
 
 app.use(express.urlencoded({ extended:true }))
 app.use(express.json())
