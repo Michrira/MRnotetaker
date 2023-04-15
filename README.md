@@ -35,6 +35,10 @@
 
   My discord study group!
 
+## Links
+https://github.com/Michrira/MRnotetaker.git
+
+
 ## Questions
 
   If you have any questions, please email me at MichaelChristianRader@gmail.com Visit my [GitHub profile](https://github.com/Michrira) to see my other projects.
